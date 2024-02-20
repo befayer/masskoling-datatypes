@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/masskoling-datatypes.iml" filepath="$PROJECT_DIR$/masskoling-datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/masskoding-datatypes.iml" filepath="$PROJECT_DIR$/masskoding-datatypes.iml" />
     </modules>
   </component>
 </project>
